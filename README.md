@@ -14,7 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-###  Skilled in :desktop_computer:
+### 📫 Reach me at
+<a href="https://www.linkedin.com/in/arpita-halder-8718b413b/">
+  <img align="left" alt="Arpita's LinkedIN" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="arpitahalder@gmail.com"
+<img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+###  :desktop_computer: Skilled in 
 
 
 #### Languages:
