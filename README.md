@@ -18,9 +18,10 @@ Here are some ideas to get you started:
 
 
 ### Languages:
-<img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white" height="30"/>
-<img alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" height="30"/>
-<img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" height="30"/>
+<img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/>
+<img alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+<img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/>
+
 
 ## Work Experience :computer_mouse: :desktop_computer: :keyboard:
 
@@ -31,7 +32,8 @@ Here are some ideas to get you started:
 
 ## Publications :clipboard: :black_nib:
 <ol>
-    <li><a href="https://doi.org/10.1088/2632-2153/abf22c"/>COVID-19 Detection from Lung CT-Scan Images using Transfer Learning Approach</li>   
+    <li><a href="https://doi.org/10.1088/2632-2153/abf22c"/>COVID-19 Detection from Lung CT-Scan Images using Transfer Learning Approach</li> 
+    <p>Developed a model which is able to classify COVID-19(+ve) and COVID-19(-ve) patients precisely with an accuracy of 97% using Transfer Learning approach. The model represents excellent diagnostic ability with an AUC score of 0.99 on an augmented dataset. Accepted for publication in Machine Learning: Science and Technology Journal of IOP Science</p>
     <li><a href="https://www.ijrpr.com/uploads/V2ISSUE5/IJRPR462.pdf"/>Real-time Vernacular Sign Language Recognition using MediaPipe and Machine Learning</li>
 </ol>
 
