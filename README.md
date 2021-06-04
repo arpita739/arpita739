@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 Welcome to my GitHub Profile
 
 <!--
 **arpita739/arpita739** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<details>
+  <summary>:zap:Github Stats</summary>
+  <img align="left" alt="Stats" src="github-readme-stats-eight-sigma.vercel.app/api?username=arpita739&show_icons=true" />
+</details>
