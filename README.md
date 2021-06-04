@@ -14,10 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<details>
-  <summary>:zap:Github Stats</summary>
-  **<img align="left" alt="Arpita's GitHub stats" src="github-readme-stats-eight-sigma.vercel.app/api?username=arpita739 & show_icons=true&hide_border=true" />**
+
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=arpita739)](https://github.com/anuraghazra/github-readme-stats)
 
   
-</details>
+
