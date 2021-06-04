@@ -22,6 +22,8 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </a>
 
+<hr>
+
 ###  :desktop_computer: Skilled in 
 
 
@@ -45,12 +47,16 @@ Here are some ideas to get you started:
 <code><img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/></code>
 <code><img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/></code>
 
+<hr>
+
 ### Work Experience :computer_mouse: :desktop_computer: :keyboard:
 
 | 💼 Designation |  🏢Organization | ⏰Timeline  |💬Description
 | :-: | :-: | :--: |:--:|
 | AI Developer Intern | [CSKAA Automation Pvt Ltd](http://www.cskaa.co.in/) | August 2020 - January 2021 |Project: Real-time Word-Level American Sign Language Recognition from Video.|
 | Summer Research Intern | [Indian Institute of Technology, BHU](https://iitbhu.ac.in/) | May 2020 - July 2020 |Project: Image De-hazing using CycleGAN|
+
+<hr>
 
 ### Publications :clipboard: :black_nib:
 <ol>
@@ -60,12 +66,13 @@ Here are some ideas to get you started:
     <strong>International Journal of Research Publication and Reviews</strong>
 </ol>
 
+<hr>
+
 
 ### Overall Profile
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arpita739&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=arpita739)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arpita739&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
   
 
