@@ -46,7 +46,7 @@ Here are some ideas to get you started:
 
 ### Publications :clipboard: :black_nib:
 <ol>
-    <li><a href="https://doi.org/10.1088/2632-2153/abf22c"/>COVID-19 Detection from Lung CT-Scan Images using Transfer Learning Approach</a></li> 
+    <li><a href="https://doi.org/10.1088/2632-2153/abf22c"/><strong>COVID-19 Detection from Lung CT-Scan Images using Transfer Learning Approach</strong></a></li> 
     <p>Developed a model which is able to classify COVID-19(+ve) and COVID-19(-ve) patients precisely with an accuracy of 97% using Transfer Learning approach. The model represents excellent diagnostic ability with an AUC score of 0.99 on an augmented dataset. <strong>Machine Learning: Science and Technology Journal<strong> <img src="https://img.shields.io/badge/IOP%20Science-Publisher-blue"/></p>
     <li><a href="https://www.ijrpr.com/uploads/V2ISSUE5/IJRPR462.pdf"/>Real-time Vernacular Sign Language Recognition using MediaPipe and Machine Learning</a></li>
     <strong>International Journal of Research Publication and Reviews</strong>
