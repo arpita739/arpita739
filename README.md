@@ -31,8 +31,7 @@ Here are some ideas to get you started:
 
 ## Publications :clipboard: :black_nib:
 <ol>
-    <li><a href="https://doi.org/10.1088/2632-2153/abf22c"/>COVID-19 Detection from Lung CT-Scan Images using Transfer Learning Approach</li>
-   
+    <li><a href="https://doi.org/10.1088/2632-2153/abf22c"/>COVID-19 Detection from Lung CT-Scan Images using Transfer Learning Approach</li>   
     <li><a href="https://www.ijrpr.com/uploads/V2ISSUE5/IJRPR462.pdf"/>Real-time Vernacular Sign Language Recognition using MediaPipe and Machine Learning</li>
 </ol>
 
