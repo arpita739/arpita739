@@ -26,7 +26,9 @@ Here are some ideas to get you started:
 
 | 💼 Designation |  🏢Organization | ⏰Timeline  |Description
 | :-: | :-: | :-: |:-:|
-| AI Developer Intern | [CSKAA Automation Pvt Ltd](http://www.cskaa.co.in/) | August 2020 - January 2021 |Project: Real-time Word-Level American Sign Language Recognition from Video.|
+| AI Developer Intern | [CSKAA Automation Pvt Ltd](http://www.cskaa.co.in/) | August 2020 - January 2021 |Project: Real-time Word-Level American Sign Language Recognition from Video.//
+Proposed the principal architecture of the project. Used Mediapipe and ML model to construct the project. The tremendous teamwork
+culminated in the completion of the miniature prototype of this project. Dealt with Computer Vision and Machine Learning modules|
 | Summer Research Intern | [Indian Institute of Technology, BHU](https://iitbhu.ac.in/) | May 2020 - July 2020 |Project: Image De-hazing using CycleGAN|
 
 
