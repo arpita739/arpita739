@@ -1,4 +1,4 @@
-### Hi there 👋 Welcome to my GitHub Profile
+## Hi there 👋 Welcome to my GitHub Profile
 
 <!--
 **arpita739/arpita739** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,23 +14,37 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## :open_book: :books: Skilled in :closed_book: :desktop_computer:
+###  Skilled in :desktop_computer:
 
 
-### Languages:
-<img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/>
-<img alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-<img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/>
+#### Languages:
+<code><img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/></code>
+<code><img alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/></code>
+<code><img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/></code>
 
+#### ML/DL:
+<code><img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" /></code>
+<code><img alt="Keras" src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white"/></code>
+<code><img alt="Pandas" src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" /></code>
+<code><img alt="NumPy" src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" /></code>
+<code><img alt="OpenCV" src="https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white"/></code>
 
-## Work Experience :computer_mouse: :desktop_computer: :keyboard:
+#### Operating Systems:
+<code><img alt="Windows 10" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" /></code>
+<code><img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" /></code>
+
+#### Web Technologies
+<code><img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/></code>
+<code><img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/></code>
+
+### Work Experience :computer_mouse: :desktop_computer: :keyboard:
 
 | 💼 Designation |  🏢Organization | ⏰Timeline  |💬Description
 | :-: | :-: | :--: |:--:|
 | AI Developer Intern | [CSKAA Automation Pvt Ltd](http://www.cskaa.co.in/) | August 2020 - January 2021 |Project: Real-time Word-Level American Sign Language Recognition from Video.|
 | Summer Research Intern | [Indian Institute of Technology, BHU](https://iitbhu.ac.in/) | May 2020 - July 2020 |Project: Image De-hazing using CycleGAN|
 
-## Publications :clipboard: :black_nib:
+### Publications :clipboard: :black_nib:
 <ol>
     <li><a href="https://doi.org/10.1088/2632-2153/abf22c"/>COVID-19 Detection from Lung CT-Scan Images using Transfer Learning Approach</a></li> 
     <p>Developed a model which is able to classify COVID-19(+ve) and COVID-19(-ve) patients precisely with an accuracy of 97% using Transfer Learning approach. The model represents excellent diagnostic ability with an AUC score of 0.99 on an augmented dataset. <strong>Machine Learning: Science and Technology Journal<strong> <img src="https://img.shields.io/badge/IOP%20Science-Publisher-blue"/></p>
