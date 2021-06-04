@@ -16,5 +16,6 @@ Here are some ideas to get you started:
 -->
 <details>
   <summary>:zap:Github Stats</summary>
-  <img align="left" alt="Stats" src="github-readme-stats-eight-sigma.vercel.app/api?username=arpita739&show_icons=true" />
+  <img align="left" alt="Arpita's GitHub stats" src="github-readme-stats-eight-sigma.vercel.app/api?username=arpita739 & show_icons=true&hide_border=true" />
+  
 </details>
