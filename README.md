@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 ## Work Experience :computer_mouse: :desktop_computer: :keyboard:
 
 | 💼 Designation |  🏢Organization | ⏰Timeline  |💬Description
-| :-: | :-: | :--- |:--:|
+| :-: | :-: | :--: |:--:|
 | AI Developer Intern | [CSKAA Automation Pvt Ltd](http://www.cskaa.co.in/) | August 2020 - January 2021 |Project: Real-time Word-Level American Sign Language Recognition from Video.|
 | Summer Research Intern | [Indian Institute of Technology, BHU](https://iitbhu.ac.in/) | May 2020 - July 2020 |Project: Image De-hazing using CycleGAN|
 
