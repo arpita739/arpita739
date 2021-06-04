@@ -24,12 +24,16 @@ Here are some ideas to get you started:
 
 ## Work Experience :computer_mouse: :desktop_computer: :keyboard:
 
-| 💼 Designation |  🏢Organization | ⏰Timeline  |Description
+| 💼 Designation |  🏢Organization | ⏰Timeline  |💬Description
 | :-: | :-: | :-: |:-:|
-| AI Developer Intern | [CSKAA Automation Pvt Ltd](http://www.cskaa.co.in/) | August 2020 - January 2021 |Project: Real-time Word-Level American Sign Language Recognition from Video.//
-Proposed the principal architecture of the project. Used Mediapipe and ML model to construct the project. The tremendous teamwork
-culminated in the completion of the miniature prototype of this project. Dealt with Computer Vision and Machine Learning modules|
+| AI Developer Intern | [CSKAA Automation Pvt Ltd](http://www.cskaa.co.in/) | August 2020 - January 2021 |Project: Real-time Word-Level American Sign Language Recognition from Video.|
 | Summer Research Intern | [Indian Institute of Technology, BHU](https://iitbhu.ac.in/) | May 2020 - July 2020 |Project: Image De-hazing using CycleGAN|
+
+## Publications :clipboard: :black_nib:
+<ul>
+    <ol><a href="https://doi.org/10.1088/2632-2153/abf22c"/>COVID-19 Detection from Lung CT-Scan Images using Transfer Learning Approach</ol>
+    <ol><a href="https://www.ijrpr.com/uploads/V2ISSUE5/IJRPR462.pdf"/>Real-time Vernacular Sign Language Recognition using MediaPipe and Machine Learning</ol>
+</ul>
 
 
 
