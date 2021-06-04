@@ -22,6 +22,13 @@ Here are some ideas to get you started:
 <img alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" height="30"/>
 <img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" height="30"/>
 
+## Work Experience :computer_mouse: :desktop_computer: :keyboard:
+
+| 💼 Designation |  🏢Organization | ⏰Timeline  |Description
+| :-: | :-: | :-: |:-:|
+| AI Developer Intern | [CSKAA Automation Pvt Ltd](http://www.cskaa.co.in/) | August 2020 - January 2021 |Project: Real-time Word-Level American Sign Language Recognition from Video.|
+| Summer Research Intern | [Indian Institute of Technology, BHU](https://iitbhu.ac.in/) | May 2020 - July 2020 |Project: Image De-hazing using CycleGAN|
+
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arpita739&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
