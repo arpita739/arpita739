@@ -63,8 +63,13 @@ Here are some ideas to get you started:
 <ol>
     <li><a href="https://doi.org/10.1088/2632-2153/abf22c"/><strong>COVID-19 Detection from Lung CT-Scan Images using Transfer Learning Approach</strong></a></li> 
     <p>Developed a model which is able to classify COVID-19(+ve) and COVID-19(-ve) patients precisely with an accuracy of 97% using Transfer Learning approach. The model represents excellent diagnostic ability with an AUC score of 0.99 on an augmented dataset. <strong>Machine Learning: Science and Technology Journal<strong> <a href="https://doi.org/10.1088/2632-2153/abf22c"><img src="https://img.shields.io/badge/IOP%20Science-Publisher-blue"/></a></p>
-    <li><a href="https://www.ijrpr.com/uploads/V2ISSUE5/IJRPR462.pdf"/>Real-time Vernacular Sign Language Recognition using MediaPipe and Machine Learning</a></li>
-    <strong>International Journal of Research Publication and Reviews</strong> <a href="https://www.ijrpr.com/uploads/V2ISSUE5/IJRPR462.pdf"><img src="https://img.shields.io/badge/IJRPR-Publisher-blue"><a/>
+  
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=arpita739&repo=COVID-19-Detection-from-Lung-CT-Scan-Images-using-Transfer-Learning-Approach)](https://github.com/arpita739/COVID-19-Detection-from-Lung-CT-Scan-Images-using-Transfer-Learning-Approach)
+
+<li><a href="https://www.ijrpr.com/uploads/V2ISSUE5/IJRPR462.pdf"/>Real-time Vernacular Sign Language Recognition using MediaPipe and Machine Learning</a></li><strong>International Journal of Research Publication and Reviews</strong> <a href="https://www.ijrpr.com/uploads/V2ISSUE5/IJRPR462.pdf"><img src="https://img.shields.io/badge/IJRPR-Publisher-blue"><a/>
+  
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=arpita739&repo=Real-time-Vernacular-Sign-Language-Recognition-using-MediaPipe-and-Machine-Learning)](https://github.com/arpita739/Real-time-Vernacular-Sign-Language-Recognition-using-MediaPipe-and-Machine-Learning)
+  
 </ol>
 
 <hr>
