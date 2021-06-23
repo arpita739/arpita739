@@ -52,10 +52,19 @@ Here are some ideas to get you started:
 
 ### Work Experience :computer_mouse: :desktop_computer: :keyboard:
 
-| 💼 Designation |  🏢Organization | ⏰Timeline  |💬Description
+| 💼 Designation |  🏢Organization | ⏰Timeline  |💬Description|
 | ---- | ---- | ---- |----|
 | AI Developer Intern | [CSKAA Automation Pvt Ltd](http://www.cskaa.co.in/) | August 2020 - January 2021 |<ul><li>Project: Real-time Word-Level American Sign Language Recognition from Video.</li><li>Proposed the principal architecture of the project. Used Mediapipe and ML model to construct the project.The tremendous teamwork culminated in the completion of the miniature prototype of this project.Dealt with Computer Vision and Machine Learning modules.</li></ul>|
 | Summer Research Intern | [Indian Institute of Technology, BHU](https://iitbhu.ac.in/) | May 2020 - July 2020 |<ul><li>Project: Image De-hazing using CycleGAN</li><li>Implemented CycleGAN architecture to build a model capable of de-hazing an image. Model achieved PSNR value of 18.03 for indoor and 19.26 for outdoor dataset. SSIM value of indoor was 0.80 and outdoor was 0.67. Textural quality was improved using optimized loss function by 20% and an observable haze-free image was obtained. Dealt with image restoration, image-enhancement and other computer vision modules.</li></ul>|
+
+<hr>
+
+### Education
+
+|University|Degree|Stream|Year|
+| ---- | ---- | ---- | ---- |
+|Friedrich–Alexander University Erlangen–Nürnberg,Germany|Master of Science|Medical Engineering <br><strong>Branch</strong>: Medical Image and Data Processing|2021-2023|
+|Maulana Abul Kalam Azad University of Technology,India|Bachelor of Technology|Computer Science and Engineering|2017-2021|
 
 <hr>
 
