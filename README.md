@@ -30,7 +30,6 @@ Here are some ideas to get you started:
 #### Languages:
 <code><img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/></code>
 <code><img alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/></code>
-<code><img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/></code>
 
 #### ML/DL:
 <code><img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" /></code>
@@ -64,7 +63,7 @@ Here are some ideas to get you started:
 
 |University|Degree|Stream|Year|
 | ---- | ---- | ---- | ---- |
-|Friedrich–Alexander University Erlangen–Nürnberg,Germany|Master of Science|Medical Engineering <br><strong>Branch</strong>: Medical Image and Data Processing|2021-2023|
+|Friedrich–Alexander University Erlangen–Nürnberg,Germany|Master of Science|Artificial Intelligence<br><strong>Minor</strong>: Biomedical Engineering|2021-2023|
 |Maulana Abul Kalam Azad University of Technology,India|Bachelor of Technology|Computer Science and Engineering|2017-2021|
 
 <hr>
