@@ -54,6 +54,8 @@ Here are some ideas to get you started:
 
 | 💼 Designation |  🏢Organization | ⏰Timeline  |💬Description|
 | ---- | ---- | ---- |----|
+| Student Research Assistant | Universitätsklinikum Erlangen Klinik fur Pädaudiologie und Phoniatrie, Germany | March 2022 | Working on research related to medical image segmentation|
+| Student Research Assistant | ANKI Labs under Artificial Intelligence and Biomedical Engineering Department,FAU Erlangen-Nürnberg, Germany| March 2022 |Working on research related to medical image segmentation|
 | AI Developer Intern | [CSKAA Automation Pvt Ltd](http://www.cskaa.co.in/) | August 2020 - January 2021 |<ul><li>Project: Real-time Word-Level American Sign Language Recognition from Video.</li><li>Proposed the principal architecture of the project. Used Mediapipe and ML model to construct the project.The tremendous teamwork culminated in the completion of the miniature prototype of this project.Dealt with Computer Vision and Machine Learning modules.</li></ul>|
 | Summer Research Intern | [Indian Institute of Technology, BHU](https://iitbhu.ac.in/) | May 2020 - July 2020 |<ul><li>Project: Image De-hazing using CycleGAN</li><li>Implemented CycleGAN architecture to build a model capable of de-hazing an image. Model achieved PSNR value of 18.03 for indoor and 19.26 for outdoor dataset. SSIM value of indoor was 0.80 and outdoor was 0.67. Textural quality was improved using optimized loss function by 20% and an observable haze-free image was obtained. Dealt with image restoration, image-enhancement and other computer vision modules.</li></ul>|
 
