@@ -65,7 +65,7 @@ Here are some ideas to get you started:
 
 |University|Degree|Stream|Year|
 | ---- | ---- | ---- | ---- |
-|Friedrich–Alexander University Erlangen–Nürnberg,Germany|Master of Science|Artificial Intelligence<br><strong>Minor</strong>: Medical Informatics|2021-2023|
+|Friedrich–Alexander University Erlangen–Nürnberg,Germany|Master of Science|Artificial Intelligence<br><strong>Minor</strong>: Artificial Intelligence in Biomedical Engineering|2021-2023|
 |Maulana Abul Kalam Azad University of Technology,India|Bachelor of Technology|Computer Science and Engineering|2017-2021|
 
 <hr>
