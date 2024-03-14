@@ -24,38 +24,11 @@ Here are some ideas to get you started:
 
 <hr>
 
-###  :desktop_computer: Skilled in 
-
-
-#### Languages:
-<code><img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/></code>
-<code><img alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/></code>
-
-#### ML/DL:
-<code><img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" /></code>
-<code><img alt="Keras" src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white"/></code>
-<code><img alt="Pandas" src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" /></code>
-<code><img alt="NumPy" src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" /></code>
-<code><img alt="OpenCV" src="https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white"/></code>
-<code><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-%23F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white" /></code>
-
-#### Operating Systems:
-<code><img alt="Windows 10" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" /></code>
-<code><img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" /></code>
-<code><img alt="Mac OS" src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white" /></code>
-
-#### Web Technologies
-<code><img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/></code>
-<code><img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/></code>
-
-
-
-
 ### Education
 
 |University|Degree|Stream|Year|
 | ---- | ---- | ---- | ---- |
-|Friedrich–Alexander University Erlangen–Nürnberg,Germany|Master of Science|Artificial Intelligence<br><strong>Minor</strong>: Artificial Intelligence in Biomedical Engineering|2021-2023|
+|Friedrich–Alexander University Erlangen–Nürnberg,Germany|Master of Science|Artificial Intelligence<br><strong>Minor</strong>: Artificial Intelligence in Biomedical Engineering|2021-Present|
 |Maulana Abul Kalam Azad University of Technology,India|Bachelor of Technology|Computer Science and Engineering|2017-2021|
 
 <hr>
