@@ -1,65 +1,113 @@
-## Hi there 👋 Welcome to my GitHub Profile
+## 👋 Hi, I'm Arpita Halder
 
-<!--
-**arpita739/arpita739** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI Developer | Data Scientist | Researcher | Open-Source Contributor
 
-Here are some ideas to get you started:
+Welcome to my GitHub! I’m passionate about building robust AI solutions for healthcare, enterprise, and real-world applications. With experience across medical AI, document intelligence, and cloud-native ML, I specialize in turning data into impact.
 
-- 🔭 I’m currently working on 
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-### 📫 Reach me at
-<a href="https://www.linkedin.com/in/arpita-halder-8718b413b/">
-  <img align="left" alt="Arpita's LinkedIN" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+---
+
+### 🚀 What I Do
+
+- 🔬 Conduct applied research in **Generative AI**, **RAG**, and **Medical Imaging**
+- 🧠 Build AI/ML solutions that enhance **data traceability**, **governance**, and **searchability**
+- 🛠️ Develop end-to-end products using **Python**, **C++**, **Docker**, **Git**, **Azure**, and more
+- 👥 Collaborate in Agile teams across academia, startups, and enterprise (e.g. Siemens Healthineers)
+
+---
+
+### 🧠 Highlighted Project
+
+#### 🏗️ Bit&Beam – Intelligent Building Documentation Management System
+<a href="https://github.com/amosproj/amos2025ss02-building-documentation-management-system">
+  <img align="right" width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=amosproj&repo=amos2025ss02-building-documentation-management-system"/>
 </a>
-<a href="mailto:arpitahalder739@gmail.com?">
-  <img src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
+
+Developed during the AMOS program in partnership with BUILD.ING GmbH, **Bit&Beam** is an open-source platform to manage building documentation using:
+
+- 📄 AI-powered document classification
+- 🔍 Smart metadata extraction and NLP search
+- 🛡️ Secure multi-tenant access and OCR capabilities
+
+> 💡 Built in a cross-functional Scrum team with industrial stakeholders to deliver a real-world solution.
+
+---
+
+### 📝 Publications
+
+1. **[COVID-19 Detection from Lung CT-Scan Images using Transfer Learning](https://doi.org/10.1088/2632-2153/abf22c)**  
+   *Machine Learning: Science and Technology (IOP Science)*  
+   Achieved 97% accuracy and 0.99 AUC using DenseNet on lung CT scans.  
+   [🔗 GitHub](https://github.com/arpita739/COVID-19-Detection-from-Lung-CT-Scan-Images-using-Transfer-Learning-Approach)
+
+2. **[Real-time Vernacular Sign Language Recognition](https://www.ijrpr.com/uploads/V2ISSUE5/IJRPR462.pdf)**  
+   *IJRPR Journal*  
+   Built a real-time system using MediaPipe and ML, achieving up to 99.29% accuracy.  
+   [🔗 GitHub](https://github.com/arpita739/Real-time-Vernacular-Sign-Language-Recognition-using-MediaPipe-and-Machine-Learning)
+
+---
+
+### 💼 Experience Snapshot
+
+- **Siemens Healthineers** – AI Werkstudent  
+  → Integrated LLMs in enterprise tools for natural language querying & smart data catalogs  
+  → Developed ML models for supply chain traceability & sustainability
+
+- **BUILD.ING GmbH (AMOS Project)** – Software Developer  
+  → Delivered full-stack AI-powered document management system with GenAI, OCR, NLP
+
+- **UK Erlangen** – Research Assistant (Glottis & Spine Segmentation)  
+  → Implemented segmentation pipelines for clinical image data
+
+---
+
+### 🎓 Education
+
+- 🎓 **M.Sc. Artificial Intelligence**  
+  FAU Erlangen–Nürnberg, Germany  
+  Ongoing Research: Retrieval-Augmented Generation for Medical QA (MedRAG-GPT)
+
+- 🎓 **B.Tech. Computer Science & Engineering**  
+  MAKAUT, India  
+  Thesis: Signature Verification using Siamese Networks
+
+---
+
+### ⚒️ Skills
+
+**Languages & Frameworks**  
+`Python` `C++` `SQL` `PyTorch` `TensorFlow` `Docker` `Shell` `OOP`
+
+**Tools & Platforms**  
+`Azure` `Git` `Snowflake` `PowerBI` `PostgreSQL` `HPC` `LaTeX` `CI/CD`
+
+**AI/ML**  
+`Generative AI` `LLMs` `RAG` `NLP` `Computer Vision` `Data Visualization`
+
+---
+
+### 🏆 Highlights
+
+- 🥉 3rd Place – *Healthcare Hackathon Bavaria 2024*  
+  → Built "Flora", an AI avatar to enhance patient engagement, with Siemens Healthineers
+
+---
+
+### 📈 GitHub Stats
+
+[![Arpita's GitHub Stats](https://github-readme-stats.vercel.app/api?username=arpita739&show_icons=true&theme=default)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arpita739&layout=compact&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+### 📫 Get in Touch
+
+<a href="https://www.linkedin.com/in/arpitahalder/">
+  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:arpitahalder739@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-%23DD0031.svg?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<hr>
+---
 
-### Education
-
-|University|Degree|Stream|Year|
-| ---- | ---- | ---- | ---- |
-|Friedrich–Alexander University Erlangen–Nürnberg,Germany|Master of Science|Artificial Intelligence<br><strong>Minor</strong>: Artificial Intelligence in Biomedical Engineering|2021-Present|
-|Maulana Abul Kalam Azad University of Technology,India|Bachelor of Technology|Computer Science and Engineering|2017-2021|
-
-<hr>
-
-### Publications :clipboard: :black_nib:
-<ol>
-    <li><a href="https://doi.org/10.1088/2632-2153/abf22c"/><strong>COVID-19 Detection from Lung CT-Scan Images using Transfer Learning Approach</strong></a></li> 
-    <p>Developed a model which is able to classify COVID-19(+ve) and COVID-19(-ve) patients precisely with an accuracy of 97% using Transfer Learning approach. The model represents excellent diagnostic ability with an AUC score of 0.99 on an augmented dataset. <strong>Machine Learning: Science and Technology Journal<strong> <a href="https://doi.org/10.1088/2632-2153/abf22c"><img src="https://img.shields.io/badge/IOP%20Science-Publisher-blue"/></a></p>
-  
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=arpita739&repo=COVID-19-Detection-from-Lung-CT-Scan-Images-using-Transfer-Learning-Approach)](https://github.com/arpita739/COVID-19-Detection-from-Lung-CT-Scan-Images-using-Transfer-Learning-Approach)
-
-<li><a href="https://www.ijrpr.com/uploads/V2ISSUE5/IJRPR462.pdf"/>Real-time Vernacular Sign Language Recognition using MediaPipe and Machine Learning</a></li><strong>International Journal of Research Publication and Reviews</strong> <a href="https://www.ijrpr.com/uploads/V2ISSUE5/IJRPR462.pdf"><img src="https://img.shields.io/badge/IJRPR-Publisher-blue"><a/>
-  
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=arpita739&repo=Real-time-Vernacular-Sign-Language-Recognition-using-MediaPipe-and-Machine-Learning)](https://github.com/arpita739/Real-time-Vernacular-Sign-Language-Recognition-using-MediaPipe-and-Machine-Learning)
-  
-</ol>
-
-<hr>
-
-  ### 🏆 Github Profile Trophy
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=arpita739&column=7&hide=PullRequest"/>
-  </a>
-
-<hr>
-
-
-### Overall Profile
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=arpita739)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arpita739&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-  
-
+🌍 *Let’s build AI solutions that matter.*
