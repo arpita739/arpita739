@@ -99,6 +99,16 @@ Developed during the AMOS program in partnership with BUILD.ING GmbH, **Bit&Beam
 
 ---
 
+### 🏆 GitHub Profile Trophy
+
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img src="https://github-profile-trophy.vercel.app/?username=arpita739&column=7&hide=PullRequest"/>
+</a>
+
+<hr>
+
+---
+
 ### 📫 Get in Touch
 
 <a href="https://www.linkedin.com/in/arpitahalder/">
